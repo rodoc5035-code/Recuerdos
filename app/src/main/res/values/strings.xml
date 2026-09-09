@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recuerdos</string>
+    <string name="widget_description">Muestra momentos de un día como hoy o recuerdos al azar en tu pantalla de inicio.</string>
+</resources>

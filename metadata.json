@@ -1,0 +1,6 @@
+{
+  "name": "Recuerdos",
+  "description": "Calendario de recuerdos en fotos: organiza momentos con imágenes y etiquetas, revive recuerdos con notificaciones de un día como hoy y al azar, widget para pantalla de inicio y compartir por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
